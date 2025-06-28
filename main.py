@@ -35,7 +35,7 @@ with row1[2]:
     income_lakhs = st.number_input('Income in Lakhs', step=1, min_value=1, max_value=200)
 
 with row2[0]:
-    genetical_risk = st.number_input('Genetical Risk', step=1, min_value=0, max_value=5)
+    genetical_risk = st.number_input('Genetical Risk', step=1, min_value=1, max_value=5)
 with row2[1]:
     insurance_plan = st.selectbox('Insurance Plan', categorical_options['Insurance Plan'])
 with row2[2]:
