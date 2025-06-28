@@ -1,7 +1,6 @@
 
 import streamlit as st
 import requests
-from dotenv import load_dotenv
 import os
 
 API_URL = st.secrets["API_URL"]
