@@ -4,8 +4,7 @@ import requests
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
-API_URL = os.getenv("API_URL")
+API_URL = st.secrets["API_URL"]
 
 st.title('Health Insurance Cost Predictor')
 
