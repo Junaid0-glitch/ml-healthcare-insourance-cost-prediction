@@ -119,7 +119,7 @@ streamlit run main.py
 | ------ | ---------- | -------------------------------- |
 | POST   | `/predict` | Returns cost prediction          |
 | GET    | `/`        | Returns Hello!                   |
-| GET    | '/home'    | Returns Welcome! The API is live |
+| GET    | `/home`    | Returns Welcome! The API is live |
 
 ---
 
