@@ -1,5 +1,3 @@
-Here's a detailed and professional README tailored for your ML Healthcare Insurance Cost Prediction project:
-
 ---
 
 # 🏥 ML Healthcare Insurance Cost Prediction
