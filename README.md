@@ -1,5 +1,3 @@
----
-
 # 🏥 ML Healthcare Insurance Cost Prediction
 
 ![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)
